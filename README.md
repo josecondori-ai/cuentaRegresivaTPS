@@ -20,7 +20,7 @@ La razón detrás de la creación de este proyecto es ayudar a mis alumnos a man
 
 Puedes ver una demostración en vivo del contador regresivo haciendo clic en el siguiente enlace:
 
-[🚀 Demo del Contador Regresivo](https://tu-usuario.github.io/nombre-del-repositorio/)
+[🚀 Demo del Contador Regresivo](https://josecondori-ai.github.io/cuentaRegresivaTPS/)
 
 ## 📝 Reflexión Final
 
