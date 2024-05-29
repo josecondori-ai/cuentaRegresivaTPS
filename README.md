@@ -1,5 +1,8 @@
 # ⏳ Contador Regresivo para la Entrega de Proyectos
 
+https://github.com/josecondori-ai/cuentaRegresivaTPS/assets/62406594/edf0f9ff-829b-4d69-ab72-dc3a4dc2f8eb
+
+
 ¡Bienvenidos al proyecto de **Contador Regresivo para la Entrega de Proyectos**! 🎉 Este es un contador regresivo animado y atractivo diseñado para ayudar a los estudiantes a estar al tanto del tiempo restante para la entrega de sus proyectos.
 
 ## 📋 Descripción del Proyecto
