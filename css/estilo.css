@@ -1,0 +1,53 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(to right, #ff9966, #ff5e62);
+    color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    animation: pulse 1.5s infinite;
+}
+
+#countdown {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.time-section {
+    background: rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.time {
+    display: block;
+    font-size: 3em;
+}
+
+.label {
+    font-size: 1.2em;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+}
+
