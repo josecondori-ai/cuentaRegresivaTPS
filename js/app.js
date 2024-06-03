@@ -19,7 +19,7 @@
     };
     
     const countdown = () => {
-        const deadline = new Date('2024-05-31T23:59:59').getTime();
+        const deadline = new Date('2024-06-03T23:59:59').getTime();
         const now = new Date().getTime();
         const timeRemaining = deadline - now;
     
